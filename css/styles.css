@@ -1,11 +1,32 @@
 body {
   background-color: orange;
 }
+header {
+  margin: 5px;
+}
 header img {
   height: 150px;
   width: 150px;
 }
 
+nav {
+  background-color: lightgray;
+  border: solid 7px;
+  border-color: black;
+  margin: 15px;
+  padding: 5px;
+}
+footer {
+  margin: 10px;
+  
+}
 .container {
   text-align: center;
+}
+.me {
+  background-color: lightgreen;
+  padding: 8px;
+  border: solid 5px;
+  border-color: rgb(51, 153, 102);
+  border-radius: 15%;
 }
